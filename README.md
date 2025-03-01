@@ -18,7 +18,7 @@ Below is a screenshot of the Profile Card in action:
 ## 🌐 Live Demo
 Check out the live demo of the Profile Card here:
 
-[Live Demo](https://your-live-demo-link-here.com) *(Replace with your actual live demo URL)*
+[Live Demo](https://qaiserejaz.github.io/profile-card/) 
 
 ## 📦 Installation
 To run this project locally, follow these steps:
